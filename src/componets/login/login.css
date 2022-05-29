@@ -1,0 +1,48 @@
+
+.login {
+    width: 400px;
+    background: #fff;
+    border: 1px solid #dddfe2;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    border-radius: 8px;
+    padding: 5rem;
+    align-items: center;
+    text-align: center;
+}
+.login  span {
+      margin-bottom: 10px;
+      background-color: rgb(216, 82, 82);
+      font-size: 18px;
+      color: white;
+      font-weight: bold;
+}
+.login  span {
+    margin-bottom: 10px;
+    background-color: rgb(2, 123, 6);
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+} 
+.login > input {
+    border-radius: 8px;
+    border: 2px solid #dddfe2;
+    outline: none;
+    color: #1d2129;
+    margin: 0.5rem 0;
+    padding: 0.7rem 0.79rem;
+    width: 100%;
+    font-size: 1rem;
+}
+
+.login > .button {
+    background: #1877f2;
+    border: 1px solid #1877f2;
+    color: #fff;
+    font-size: 1.25rem;
+    padding: 0.7rem;
+    margin: 0.5rem 0;
+    border-radius: 8px;
+    outline: none;
+    cursor: pointer;
+    width: 100%;
+}
